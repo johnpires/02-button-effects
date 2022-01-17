@@ -17,9 +17,9 @@ CURSOS LINK 👇
 | 05  | [Button Effect-5](https://github.com/johnpires/02-button-effects/tree/main/Button-effect-05)      | Clique aqui |
 | 06  | [Button Effect-6](https://github.com/johnpires/02-button-effects/tree/main/Button-effect-06)      | Clique aqui |
 | 07  | [Button Effect-7](https://github.com/johnpires/02-button-effects/tree/main/Button-effect-07)      | Clique aqui |
-| 08  | [Button Effect-8]()      | Clique aqui |
-| 09  | [Button Effect-9]()      | Clique aqui |
-| 10  | [Button Effect-10]()      | Clique aqui |
+| 08  | [Button Effect-8](https://github.com/johnpires/02-button-effects/tree/main/Button-effect-08)      | Clique aqui |
+| 09  | [Button Effect-9](https://github.com/johnpires/02-button-effects/tree/main/Button-effect-09)      | Clique aqui |
+| 10  | [Button Effect-10](https://github.com/johnpires/02-button-effects/tree/main/Button-effect-10)      | Clique aqui |
 
 
 <br>
